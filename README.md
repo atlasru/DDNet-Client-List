@@ -73,6 +73,12 @@
 - It has feautures from T-Client and other clients
 - Original features are a 1v1 system, Quick Actions and Warlist Infos like the friend info in the server browser
 
+### [Prism](https://github.com/atlasru/prism) - Added by [atlasru](https://github.com/atlasru)
+
+- Prism is an open-source Windows client based on DDNet, focused on visual customization, quality-of-life tools and optional gameplay assistance.
+- It features a dedicated dark-glass ClickGUI, configurable visual effects, modular HUD widgets and multi-action macros.
+- Optional assist features include Hook Assist and predictive Freeze Avoid, while keeping manual input and the standard DDNet experience familiar.
+
 ### [AllTheHaxx](https://allthehaxx.github.io/)
 
 - AllTheHaxx is an old DDNet client that is no longer in Development.
